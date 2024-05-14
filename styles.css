@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+#note-container {
+    border: 1px solid #333;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.note {
+    border-bottom: 1px dashed #333;
+    padding: 10px 0;
+    margin-bottom: 5px;
+}
